@@ -1,7 +1,7 @@
 name: Game in a frame
 favicon: null
-layout_spectrum: 0.9568847587797791
-typography_spectrum: 0.1203993116505444
+layout_spectrum: 0.26212
+typography_spectrum: 0.09993
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.18700753268785775
+  brandStrength: 0.125
   lightness: 0.019886520924046636
-  saturation: 0.3596334923058748
+  saturation: 0.5
   rhythmicContrast: 0.3261019529309124
 purpose: []
