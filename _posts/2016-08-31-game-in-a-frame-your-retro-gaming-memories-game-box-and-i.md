@@ -1,23 +1,27 @@
 ---
+datePublished: '2016-08-31T20:49:19.499Z'
+sourcePath: _posts/2016-08-31-game-in-a-frame-your-retro-gaming-memories-game-box-and-i.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: >-
-  Game in a frame. Your retro gaming memories, game, box and instructions.
-  Preserved and looking cool on your wall.
-datePublished: '2016-08-31T20:41:13.134Z'
-dateModified: '2016-08-31T20:37:40.233Z'
 authors: []
-publisher: {}
-title: ''
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-31T20:49:19.046Z'
+title: Coming soon
+publisher: {}
+description: 'Game in a frame. '
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-08-31-game-in-a-frame-your-retro-gaming-memories-game-box-and-i.md
 url: game-in-a-frame-your-retro-gaming-memories-game-box-and-i/index.html
 _type: Article
 
 ---
-Game in a frame. Your retro gaming memories, game, box and instructions. Preserved and looking cool on your wall.
+# Coming soon
+
+Game in a frame. 
+
+Retro gaming classics preserved and looking cool on your wall.
+
+coming soon
